@@ -1,0 +1,13 @@
+{
+  "name": "ai-builder",
+  "version": "1.0.0",
+  "description": "Describe a webpage or app and the AI builds it, with a live preview.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
